@@ -1,0 +1,713 @@
+[INFO ] 2022-05-09 08:26:25.616 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:25.628 [main] Log - Tests for NewUserRegistrationSignUp-Chrome are starting at 2022-05-09T08:26:25.628489300
+[INFO ] 2022-05-09 08:26:25.629 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:29.020 [main] Log - Open Application
+[INFO ] 2022-05-09 08:26:29.057 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:26:29.336 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:26:29.829 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:26:30.268 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:26:30.347 [main] Log - Select title
+[INFO ] 2022-05-09 08:26:30.396 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:26:30.476 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:26:30.534 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:26:30.582 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:26:30.632 [main] Log - Enter City
+[INFO ] 2022-05-09 08:26:30.682 [main] Log - Select Country
+[INFO ] 2022-05-09 08:26:30.761 [main] Log - Select State
+[INFO ] 2022-05-09 08:26:30.761 [main] Log - Select District
+[INFO ] 2022-05-09 08:26:30.805 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:26:30.867 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:26:30.915 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:26:30.960 [main] Log - Select question
+[INFO ] 2022-05-09 08:26:31.016 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:26:31.073 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:26:31.132 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:26:31.180 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:26:31.229 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:26:31.268 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:26:31.269 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:26:31.300 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:26:31.945 [main] Log - Close Application
+[INFO ] 2022-05-09 08:26:31.945 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:26:33.466 [main] Log - Open Application
+[INFO ] 2022-05-09 08:26:33.473 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:26:33.761 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:26:34.389 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:26:34.646 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:26:34.703 [main] Log - Select title
+[INFO ] 2022-05-09 08:26:34.755 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:26:34.807 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:26:34.851 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:26:34.899 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:26:34.950 [main] Log - Enter City
+[INFO ] 2022-05-09 08:26:34.997 [main] Log - Select Country
+[INFO ] 2022-05-09 08:26:35.074 [main] Log - Select State
+[INFO ] 2022-05-09 08:26:35.074 [main] Log - Select District
+[INFO ] 2022-05-09 08:26:35.126 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:26:35.187 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:26:35.239 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:26:35.285 [main] Log - Select question
+[INFO ] 2022-05-09 08:26:35.327 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:26:35.367 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:26:35.410 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:26:35.450 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:26:35.498 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:26:35.534 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:26:35.534 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:26:35.553 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:26:36.168 [main] Log - Close Application
+[INFO ] 2022-05-09 08:26:36.168 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:26:37.534 [main] Log - Open Application
+[INFO ] 2022-05-09 08:26:37.540 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:26:37.835 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:26:38.481 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:26:38.756 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:26:38.824 [main] Log - Select title
+[INFO ] 2022-05-09 08:26:38.878 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:26:38.929 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:26:38.979 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:26:39.025 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:26:39.064 [main] Log - Enter City
+[INFO ] 2022-05-09 08:26:39.102 [main] Log - Select Country
+[INFO ] 2022-05-09 08:26:39.157 [main] Log - Select State
+[INFO ] 2022-05-09 08:26:39.157 [main] Log - Select District
+[INFO ] 2022-05-09 08:26:39.198 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:26:39.259 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:26:39.317 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:26:39.365 [main] Log - Select question
+[INFO ] 2022-05-09 08:26:39.405 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:26:39.451 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:26:39.495 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:26:39.544 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:26:39.615 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:26:39.666 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:26:39.666 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:26:39.689 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:26:40.339 [main] Log - Close Application
+[INFO ] 2022-05-09 08:26:40.339 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:26:40.341 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:40.341 [main] Log - Tests NewUserRegistrationSignUp-Chrome are ending at 2022-05-09T08:26:40.341300
+[INFO ] 2022-05-09 08:26:40.341 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:40.619 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:40.619 [main] Log - Tests for NewUserRegistrationSignUp-Firefox are starting at 2022-05-09T08:26:40.619708300
+[INFO ] 2022-05-09 08:26:40.619 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:40.649 [main] Log - test_NameFieldBlank test Started
+[WARN ] 2022-05-09 08:26:40.649 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:26:40.655 [main] Log - test_addressLine1FieldBlank test Started
+[WARN ] 2022-05-09 08:26:40.655 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:26:40.661 [main] Log - test_CityBlank test Started
+[WARN ] 2022-05-09 08:26:40.662 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:26:40.664 [main] Log - ***************************
+[INFO ] 2022-05-09 08:26:40.664 [main] Log - Tests NewUserRegistrationSignUp-Firefox are ending at 2022-05-09T08:26:40.664578600
+[INFO ] 2022-05-09 08:26:40.665 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:02.200 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:02.205 [main] Log - Tests for NewUserRegistrationSignUp-Chrome are starting at 2022-05-09T08:28:02.205060700
+[INFO ] 2022-05-09 08:28:02.205 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:04.584 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:04.621 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:04.864 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:28:05.513 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:28:05.914 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:28:05.996 [main] Log - Select title
+[INFO ] 2022-05-09 08:28:06.033 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:28:06.089 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:28:06.139 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:28:06.186 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:28:06.239 [main] Log - Enter City
+[INFO ] 2022-05-09 08:28:06.284 [main] Log - Select Country
+[INFO ] 2022-05-09 08:28:06.349 [main] Log - Select State
+[INFO ] 2022-05-09 08:28:06.350 [main] Log - Select District
+[INFO ] 2022-05-09 08:28:06.397 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:28:06.454 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:28:06.500 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:28:06.550 [main] Log - Select question
+[INFO ] 2022-05-09 08:28:06.598 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:28:06.650 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:28:06.699 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:28:06.741 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:28:06.787 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:28:06.827 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:28:06.828 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:28:06.851 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:28:07.533 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:07.533 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:08.917 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:08.925 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:09.225 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:28:09.715 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:28:10.124 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:28:10.192 [main] Log - Select title
+[INFO ] 2022-05-09 08:28:10.250 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:28:10.304 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:28:10.353 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:28:10.415 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:28:10.465 [main] Log - Enter City
+[INFO ] 2022-05-09 08:28:10.507 [main] Log - Select Country
+[INFO ] 2022-05-09 08:28:10.562 [main] Log - Select State
+[INFO ] 2022-05-09 08:28:10.563 [main] Log - Select District
+[INFO ] 2022-05-09 08:28:10.605 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:28:10.668 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:28:10.721 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:28:10.769 [main] Log - Select question
+[INFO ] 2022-05-09 08:28:10.812 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:28:10.860 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:28:10.906 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:28:10.970 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:28:11.050 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:28:11.100 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:28:11.100 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:28:11.126 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:28:11.776 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:11.776 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:13.246 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:13.251 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:28:13.547 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:28:14.173 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:28:14.448 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:28:14.511 [main] Log - Select title
+[INFO ] 2022-05-09 08:28:14.568 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:28:14.620 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:28:14.671 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:28:14.719 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:28:14.754 [main] Log - Enter City
+[INFO ] 2022-05-09 08:28:14.793 [main] Log - Select Country
+[INFO ] 2022-05-09 08:28:14.856 [main] Log - Select State
+[INFO ] 2022-05-09 08:28:14.856 [main] Log - Select District
+[INFO ] 2022-05-09 08:28:14.909 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:28:14.985 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:28:15.037 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:28:15.078 [main] Log - Select question
+[INFO ] 2022-05-09 08:28:15.120 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:28:15.169 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:28:15.213 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:28:15.256 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:28:15.303 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:28:15.340 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:28:15.340 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:28:15.359 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:28:16.010 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:16.010 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:16.010 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:16.010 [main] Log - Tests NewUserRegistrationSignUp-Chrome are ending at 2022-05-09T08:28:16.010861700
+[INFO ] 2022-05-09 08:28:16.010 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:16.346 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:16.347 [main] Log - Tests for NewUserRegistrationSignUp-Firefox are starting at 2022-05-09T08:28:16.347008600
+[INFO ] 2022-05-09 08:28:16.347 [main] Log - ***************************
+[INFO ] 2022-05-09 08:28:19.587 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:19.598 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:19.900 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:19.934 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:20.631 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:20.631 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:23.656 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:23.662 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:23.927 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:23.941 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:24.622 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:24.622 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:27.686 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:27.692 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:27.939 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:27.950 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:28.627 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:28.627 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:31.544 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:31.558 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:32.058 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:32.071 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:32.967 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:32.967 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:36.081 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:36.097 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:28:36.360 [main] Log - Close pop up button
+[ERROR] 2022-05-09 08:28:36.374 [main] Log - Test Failed
+[INFO ] 2022-05-09 08:28:37.218 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:37.218 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:40.029 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:40.038 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:40.476 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:40.487 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:41.201 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:41.201 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:44.222 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:44.231 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:44.679 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:44.690 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:45.399 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:45.399 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:48.264 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:48.273 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:48.719 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:48.739 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:49.434 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:49.434 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:52.299 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:52.311 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:52.749 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:28:52.768 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:28:53.583 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:53.583 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:28:56.225 [main] Log - Open Application
+[INFO ] 2022-05-09 08:28:56.233 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:28:56.669 [main] Log - Close pop up button
+[ERROR] 2022-05-09 08:28:56.681 [main] Log - Test Failed
+[INFO ] 2022-05-09 08:28:57.465 [main] Log - Close Application
+[INFO ] 2022-05-09 08:28:57.465 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:00.367 [main] Log - Open Application
+[INFO ] 2022-05-09 08:29:00.376 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:29:00.816 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:29:00.827 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:29:01.512 [main] Log - Close Application
+[INFO ] 2022-05-09 08:29:01.512 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:04.603 [main] Log - Open Application
+[INFO ] 2022-05-09 08:29:04.610 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:29:05.070 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:29:05.080 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:29:05.876 [main] Log - Close Application
+[INFO ] 2022-05-09 08:29:05.876 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:08.828 [main] Log - Open Application
+[INFO ] 2022-05-09 08:29:08.840 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:29:09.190 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:29:09.204 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:29:09.903 [main] Log - Close Application
+[INFO ] 2022-05-09 08:29:09.903 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:12.741 [main] Log - Open Application
+[INFO ] 2022-05-09 08:29:12.749 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:29:13.093 [main] Log - Close pop up button
+[WARN ] 2022-05-09 08:29:13.105 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:29:13.818 [main] Log - Close Application
+[INFO ] 2022-05-09 08:29:13.818 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:16.644 [main] Log - Open Application
+[INFO ] 2022-05-09 08:29:16.652 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:29:17.097 [main] Log - Close pop up button
+[ERROR] 2022-05-09 08:29:17.110 [main] Log - Test Failed
+[INFO ] 2022-05-09 08:29:17.900 [main] Log - Close Application
+[INFO ] 2022-05-09 08:29:17.900 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:29:17.900 [main] Log - ***************************
+[INFO ] 2022-05-09 08:29:17.901 [main] Log - Tests NewUserRegistrationSignUp-Firefox are ending at 2022-05-09T08:29:17.901517400
+[INFO ] 2022-05-09 08:29:17.901 [main] Log - ***************************
+[INFO ] 2022-05-09 08:31:34.441 [main] Log - Open Application
+[INFO ] 2022-05-09 08:31:34.802 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:31:35.390 [main] Log - Close Application
+[INFO ] 2022-05-09 08:31:35.390 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:36:24.924 [main] Log - Open Application
+[INFO ] 2022-05-09 08:36:25.397 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:36:26.108 [main] Log - Close Application
+[INFO ] 2022-05-09 08:36:26.109 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 08:37:38.025 [main] Log - Open Application
+[INFO ] 2022-05-09 08:37:38.374 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:39:03.423 [main] Log - Open Application
+[INFO ] 2022-05-09 08:39:03.769 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:40:38.000 [main] Log - Open Application
+[INFO ] 2022-05-09 08:40:38.491 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:40:41.700 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:40:41.958 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:40:42.234 [main] Log - Select title
+[INFO ] 2022-05-09 08:40:42.255 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:40:42.275 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:40:42.291 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:40:42.307 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:40:42.323 [main] Log - Enter City
+[INFO ] 2022-05-09 08:40:42.354 [main] Log - Select Country
+[INFO ] 2022-05-09 08:40:42.604 [main] Log - Select State
+[INFO ] 2022-05-09 08:40:42.605 [main] Log - Select District
+[INFO ] 2022-05-09 08:40:42.619 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:40:42.636 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:40:42.651 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:40:42.668 [main] Log - Select question
+[INFO ] 2022-05-09 08:40:42.689 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:40:42.703 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:40:42.716 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:40:42.726 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:40:42.739 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:40:42.958 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:40:42.959 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:42:38.418 [main] Log - Open Application
+[INFO ] 2022-05-09 08:42:38.888 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:43:24.706 [main] Log - Open Application
+[INFO ] 2022-05-09 08:43:25.161 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:43:27.367 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:43:27.670 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:43:27.932 [main] Log - Select title
+[INFO ] 2022-05-09 08:43:27.945 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:43:27.962 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:43:27.974 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:43:27.988 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:43:28.001 [main] Log - Enter City
+[INFO ] 2022-05-09 08:43:28.029 [main] Log - Select Country
+[INFO ] 2022-05-09 08:43:28.277 [main] Log - Select State
+[INFO ] 2022-05-09 08:43:28.277 [main] Log - Select District
+[INFO ] 2022-05-09 08:43:28.291 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:43:28.307 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:43:28.321 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:43:28.340 [main] Log - Select question
+[INFO ] 2022-05-09 08:43:28.351 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:43:28.365 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:43:28.376 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:43:28.389 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:43:28.404 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:43:28.635 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:43:28.636 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:43:46.241 [main] Log - ***************************
+[INFO ] 2022-05-09 08:43:46.246 [main] Log - Tests for NewUserRegistrationSignUp-Chrome are starting at 2022-05-09T08:43:46.246299400
+[INFO ] 2022-05-09 08:43:46.247 [main] Log - ***************************
+[INFO ] 2022-05-09 08:43:48.539 [main] Log - Open Application
+[INFO ] 2022-05-09 08:43:48.571 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:43:48.862 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:43:51.056 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:43:51.355 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:43:51.445 [main] Log - Select title
+[INFO ] 2022-05-09 08:43:51.501 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:43:51.562 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:43:51.617 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:43:51.668 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:43:51.714 [main] Log - Enter City
+[INFO ] 2022-05-09 08:43:51.761 [main] Log - Select Country
+[INFO ] 2022-05-09 08:43:51.828 [main] Log - Select State
+[INFO ] 2022-05-09 08:43:51.828 [main] Log - Select District
+[INFO ] 2022-05-09 08:43:51.877 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:43:51.940 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:43:51.988 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:43:52.035 [main] Log - Select question
+[INFO ] 2022-05-09 08:43:52.077 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:43:52.128 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:43:52.179 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:43:52.228 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:43:52.277 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:43:52.313 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:43:52.313 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:43:52.338 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:43:54.010 [main] Log - Open Application
+[INFO ] 2022-05-09 08:43:54.024 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:43:54.393 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:43:56.635 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:43:56.975 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:43:57.066 [main] Log - Select title
+[INFO ] 2022-05-09 08:43:57.147 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:43:57.222 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:43:57.293 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:43:57.390 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:43:57.479 [main] Log - Enter City
+[INFO ] 2022-05-09 08:43:57.537 [main] Log - Select Country
+[INFO ] 2022-05-09 08:43:57.646 [main] Log - Select State
+[INFO ] 2022-05-09 08:43:57.646 [main] Log - Select District
+[WARN ] 2022-05-09 08:43:57.753 [main] Log - Test Skipped
+[INFO ] 2022-05-09 08:44:00.134 [main] Log - Open Application
+[INFO ] 2022-05-09 08:44:00.157 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:44:00.535 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:44:02.773 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:44:03.074 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:44:03.168 [main] Log - Select title
+[INFO ] 2022-05-09 08:44:03.254 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:44:03.321 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:44:03.376 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:44:03.446 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:44:03.509 [main] Log - Enter City
+[INFO ] 2022-05-09 08:44:03.578 [main] Log - Select Country
+[INFO ] 2022-05-09 08:44:03.676 [main] Log - Select State
+[INFO ] 2022-05-09 08:44:03.676 [main] Log - Select District
+[INFO ] 2022-05-09 08:44:03.739 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:44:03.829 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:44:03.898 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:44:03.969 [main] Log - Select question
+[INFO ] 2022-05-09 08:44:04.039 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:44:04.116 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:44:04.184 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:44:04.274 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:44:04.351 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:44:04.412 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:44:04.412 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:44:04.443 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:44:06.123 [main] Log - Open Application
+[INFO ] 2022-05-09 08:44:06.137 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:44:06.729 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:44:08.987 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:44:09.390 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:44:09.489 [main] Log - Select title
+[INFO ] 2022-05-09 08:44:09.590 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:44:09.697 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:44:09.808 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:44:09.917 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:44:09.999 [main] Log - Enter City
+[INFO ] 2022-05-09 08:44:10.101 [main] Log - Select Country
+[INFO ] 2022-05-09 08:44:10.290 [main] Log - Select State
+[INFO ] 2022-05-09 08:44:10.290 [main] Log - Select District
+[INFO ] 2022-05-09 08:44:10.429 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:44:10.767 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:44:11.144 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:44:11.271 [main] Log - Select question
+[INFO ] 2022-05-09 08:44:11.406 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:44:11.508 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:44:11.604 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:44:11.703 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:44:11.798 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:44:11.905 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:44:11.905 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:44:11.954 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:44:11.958 [main] Log - ***************************
+[INFO ] 2022-05-09 08:44:11.959 [main] Log - Tests NewUserRegistrationSignUp-Chrome are ending at 2022-05-09T08:44:11.958688900
+[INFO ] 2022-05-09 08:44:11.959 [main] Log - ***************************
+[INFO ] 2022-05-09 08:44:13.196 [main] Log - ***************************
+[INFO ] 2022-05-09 08:44:13.197 [main] Log - Tests for NewUserRegistrationSignUp-Firefox are starting at 2022-05-09T08:44:13.197350400
+[INFO ] 2022-05-09 08:44:13.197 [main] Log - ***************************
+[INFO ] 2022-05-09 08:44:17.636 [main] Log - Open Application
+[INFO ] 2022-05-09 08:44:17.654 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 08:44:18.231 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:44:20.434 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:44:20.706 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:44:20.947 [main] Log - Select title
+[INFO ] 2022-05-09 08:44:20.965 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:44:21.007 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:44:21.025 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:44:21.042 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:44:21.058 [main] Log - Enter City
+[INFO ] 2022-05-09 08:44:21.083 [main] Log - Select Country
+[INFO ] 2022-05-09 08:44:21.330 [main] Log - Select State
+[INFO ] 2022-05-09 08:44:21.330 [main] Log - Select District
+[INFO ] 2022-05-09 08:44:21.343 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:44:21.356 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:44:21.373 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:44:21.381 [main] Log - Select question
+[INFO ] 2022-05-09 08:44:21.401 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:44:21.411 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:44:21.424 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:44:21.439 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:44:21.451 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:44:21.677 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:44:21.677 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:44:21.693 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:44:25.585 [main] Log - Open Application
+[INFO ] 2022-05-09 08:44:25.600 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 08:44:26.218 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:44:28.427 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:44:28.672 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:44:28.913 [main] Log - Select title
+[INFO ] 2022-05-09 08:44:28.929 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:44:28.943 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:44:28.955 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:44:28.966 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:44:28.979 [main] Log - Enter City
+[INFO ] 2022-05-09 08:44:29.008 [main] Log - Select Country
+[INFO ] 2022-05-09 08:44:29.262 [main] Log - Select State
+[INFO ] 2022-05-09 08:44:29.262 [main] Log - Select District
+[INFO ] 2022-05-09 08:44:29.276 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:44:29.290 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:44:29.309 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:44:29.319 [main] Log - Select question
+[INFO ] 2022-05-09 08:44:29.340 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:44:29.356 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:44:29.370 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:44:29.380 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:44:29.393 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:44:29.615 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:44:29.615 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:44:29.633 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:44:32.939 [main] Log - Open Application
+[INFO ] 2022-05-09 08:44:32.951 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 08:44:33.377 [main] Log - Close pop up button
+[INFO ] 2022-05-09 08:44:35.573 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 08:44:35.829 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 08:44:36.099 [main] Log - Select title
+[INFO ] 2022-05-09 08:44:36.115 [main] Log - Enter Name
+[INFO ] 2022-05-09 08:44:36.130 [main] Log - Enter Surname
+[INFO ] 2022-05-09 08:44:36.147 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 08:44:36.163 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 08:44:36.177 [main] Log - Enter City
+[INFO ] 2022-05-09 08:44:36.203 [main] Log - Select Country
+[INFO ] 2022-05-09 08:44:36.447 [main] Log - Select State
+[INFO ] 2022-05-09 08:44:36.447 [main] Log - Select District
+[INFO ] 2022-05-09 08:44:36.465 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 08:44:36.480 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 08:44:36.497 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 08:44:36.508 [main] Log - Select question
+[INFO ] 2022-05-09 08:44:36.529 [main] Log - Enter Answer
+[INFO ] 2022-05-09 08:44:36.545 [main] Log - Enter User Id
+[INFO ] 2022-05-09 08:44:36.560 [main] Log - Enter Password
+[INFO ] 2022-05-09 08:44:36.570 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 08:44:36.583 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 08:44:36.800 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 08:44:36.800 [main] Log - System displays error message
+[INFO ] 2022-05-09 08:44:36.806 [main] Log - Test Passed
+[INFO ] 2022-05-09 08:44:36.806 [main] Log - ***************************
+[INFO ] 2022-05-09 08:44:36.806 [main] Log - Tests NewUserRegistrationSignUp-Firefox are ending at 2022-05-09T08:44:36.806911800
+[INFO ] 2022-05-09 08:44:36.806 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:31.933 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:31.943 [main] Log - Tests for NewUserRegistrationSignUp-Chrome are starting at 2022-05-09T23:54:31.942884700
+[INFO ] 2022-05-09 23:54:31.944 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:37.745 [main] Log - Open Application
+[INFO ] 2022-05-09 23:54:37.797 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 23:54:37.916 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:54:40.169 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:54:40.545 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:54:40.657 [main] Log - Select title
+[INFO ] 2022-05-09 23:54:40.722 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:54:40.814 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:54:40.918 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:54:41.014 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:54:41.084 [main] Log - Enter City
+[INFO ] 2022-05-09 23:54:41.148 [main] Log - Select Country
+[INFO ] 2022-05-09 23:54:41.248 [main] Log - Select State
+[INFO ] 2022-05-09 23:54:41.248 [main] Log - Select District
+[INFO ] 2022-05-09 23:54:41.309 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:54:41.389 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:54:41.463 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:54:41.522 [main] Log - Select question
+[INFO ] 2022-05-09 23:54:41.582 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:54:41.646 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:54:41.718 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:54:41.783 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:54:41.850 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:54:41.900 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:54:41.900 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:54:41.928 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:54:42.664 [main] Log - Close Application
+[INFO ] 2022-05-09 23:54:42.664 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:54:44.778 [main] Log - Open Application
+[INFO ] 2022-05-09 23:54:44.789 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 23:54:45.155 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:54:47.416 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:54:47.835 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:54:47.917 [main] Log - Select title
+[INFO ] 2022-05-09 23:54:47.990 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:54:48.058 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:54:48.106 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:54:48.177 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:54:48.259 [main] Log - Enter City
+[INFO ] 2022-05-09 23:54:48.318 [main] Log - Select Country
+[INFO ] 2022-05-09 23:54:48.405 [main] Log - Select State
+[INFO ] 2022-05-09 23:54:48.405 [main] Log - Select District
+[INFO ] 2022-05-09 23:54:48.460 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:54:48.536 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:54:48.599 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:54:48.660 [main] Log - Select question
+[INFO ] 2022-05-09 23:54:48.724 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:54:48.792 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:54:48.868 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:54:48.934 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:54:48.990 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:54:49.045 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:54:49.045 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:54:49.067 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:54:49.776 [main] Log - Close Application
+[INFO ] 2022-05-09 23:54:49.777 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:54:51.427 [main] Log - Open Application
+[INFO ] 2022-05-09 23:54:51.433 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 23:54:51.729 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:54:54.175 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:54:54.699 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:54:54.791 [main] Log - Select title
+[INFO ] 2022-05-09 23:54:54.862 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:54:54.933 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:54:55.003 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:54:55.074 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:54:55.116 [main] Log - Enter City
+[INFO ] 2022-05-09 23:54:55.164 [main] Log - Select Country
+[INFO ] 2022-05-09 23:54:55.236 [main] Log - Select State
+[INFO ] 2022-05-09 23:54:55.238 [main] Log - Select District
+[INFO ] 2022-05-09 23:54:55.285 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:54:55.356 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:54:55.424 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:54:55.497 [main] Log - Select question
+[INFO ] 2022-05-09 23:54:55.573 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:54:55.664 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:54:55.731 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:54:55.782 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:54:55.839 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:54:55.883 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:54:55.883 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:54:55.904 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:54:56.575 [main] Log - Close Application
+[INFO ] 2022-05-09 23:54:56.575 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:54:56.575 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:56.575 [main] Log - Tests NewUserRegistrationSignUp-Chrome are ending at 2022-05-09T23:54:56.575965700
+[INFO ] 2022-05-09 23:54:56.575 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:56.988 [main] Log - ***************************
+[INFO ] 2022-05-09 23:54:56.988 [main] Log - Tests for NewUserRegistrationSignUp-Firefox are starting at 2022-05-09T23:54:56.988608
+[INFO ] 2022-05-09 23:54:56.988 [main] Log - ***************************
+[INFO ] 2022-05-09 23:55:00.931 [main] Log - Open Application
+[INFO ] 2022-05-09 23:55:00.945 [main] Log - test_NameFieldBlank test Started
+[INFO ] 2022-05-09 23:55:01.448 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:55:03.794 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:55:04.414 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:55:04.676 [main] Log - Select title
+[INFO ] 2022-05-09 23:55:04.702 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:55:04.734 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:55:04.752 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:55:04.769 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:55:04.786 [main] Log - Enter City
+[INFO ] 2022-05-09 23:55:04.816 [main] Log - Select Country
+[INFO ] 2022-05-09 23:55:05.064 [main] Log - Select State
+[INFO ] 2022-05-09 23:55:05.064 [main] Log - Select District
+[INFO ] 2022-05-09 23:55:05.079 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:55:05.098 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:55:05.115 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:55:05.135 [main] Log - Select question
+[INFO ] 2022-05-09 23:55:05.150 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:55:05.165 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:55:05.179 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:55:05.190 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:55:05.202 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:55:05.436 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:55:05.436 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:55:05.463 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:55:06.318 [main] Log - Close Application
+[INFO ] 2022-05-09 23:55:06.318 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:55:10.139 [main] Log - Open Application
+[INFO ] 2022-05-09 23:55:10.159 [main] Log - test_addressLine1FieldBlank test Started
+[INFO ] 2022-05-09 23:55:10.481 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:55:12.720 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:55:12.968 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:55:13.214 [main] Log - Select title
+[INFO ] 2022-05-09 23:55:13.234 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:55:13.254 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:55:13.271 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:55:13.289 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:55:13.305 [main] Log - Enter City
+[INFO ] 2022-05-09 23:55:13.333 [main] Log - Select Country
+[INFO ] 2022-05-09 23:55:13.579 [main] Log - Select State
+[INFO ] 2022-05-09 23:55:13.579 [main] Log - Select District
+[INFO ] 2022-05-09 23:55:13.597 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:55:13.610 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:55:13.626 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:55:13.643 [main] Log - Select question
+[INFO ] 2022-05-09 23:55:13.655 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:55:13.671 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:55:13.683 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:55:13.699 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:55:13.714 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:55:13.939 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:55:13.939 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:55:13.956 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:55:14.661 [main] Log - Close Application
+[INFO ] 2022-05-09 23:55:14.661 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:55:18.466 [main] Log - Open Application
+[INFO ] 2022-05-09 23:55:18.480 [main] Log - test_CityBlank test Started
+[INFO ] 2022-05-09 23:55:18.981 [main] Log - Close pop up button
+[INFO ] 2022-05-09 23:55:21.237 [main] Log - Click on Registration of copyright Form XIV
+[INFO ] 2022-05-09 23:55:21.526 [main] Log - Click on new user registration link
+[INFO ] 2022-05-09 23:55:21.799 [main] Log - Select title
+[INFO ] 2022-05-09 23:55:21.822 [main] Log - Enter Name
+[INFO ] 2022-05-09 23:55:21.844 [main] Log - Enter Surname
+[INFO ] 2022-05-09 23:55:21.867 [main] Log - Enter Address Line 1
+[INFO ] 2022-05-09 23:55:21.887 [main] Log - Enter Address Line 2
+[INFO ] 2022-05-09 23:55:21.903 [main] Log - Enter City
+[INFO ] 2022-05-09 23:55:21.933 [main] Log - Select Country
+[INFO ] 2022-05-09 23:55:22.173 [main] Log - Select State
+[INFO ] 2022-05-09 23:55:22.173 [main] Log - Select District
+[INFO ] 2022-05-09 23:55:22.193 [main] Log - Enter Pincode
+[INFO ] 2022-05-09 23:55:22.210 [main] Log - Enter Email Id
+[INFO ] 2022-05-09 23:55:22.224 [main] Log - Enter Mobile Number
+[INFO ] 2022-05-09 23:55:22.240 [main] Log - Select question
+[INFO ] 2022-05-09 23:55:22.254 [main] Log - Enter Answer
+[INFO ] 2022-05-09 23:55:22.265 [main] Log - Enter User Id
+[INFO ] 2022-05-09 23:55:22.277 [main] Log - Enter Password
+[INFO ] 2022-05-09 23:55:22.290 [main] Log - Enter Confirm Password
+[INFO ] 2022-05-09 23:55:22.304 [main] Log - Enter Captcha
+[INFO ] 2022-05-09 23:55:22.530 [main] Log - Click on Submit Button
+[INFO ] 2022-05-09 23:55:22.530 [main] Log - System displays error message
+[INFO ] 2022-05-09 23:55:22.542 [main] Log - Test Passed
+[INFO ] 2022-05-09 23:55:23.249 [main] Log - Close Application
+[INFO ] 2022-05-09 23:55:23.249 [main] Log - --------------------------------------------
+[INFO ] 2022-05-09 23:55:23.249 [main] Log - ***************************
+[INFO ] 2022-05-09 23:55:23.249 [main] Log - Tests NewUserRegistrationSignUp-Firefox are ending at 2022-05-09T23:55:23.249580900
+[INFO ] 2022-05-09 23:55:23.249 [main] Log - ***************************
