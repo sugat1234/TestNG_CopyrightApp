@@ -26,6 +26,8 @@ public class Test_Sample {
 	  
 	 Assert.assertEquals(false, true); 
 	 
+	 System.out.println("Completed");
+	 
   }
   
   @Test
